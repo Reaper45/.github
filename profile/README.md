@@ -28,13 +28,7 @@ existing but is fun to use.
 ### [radio-garden](https://github.com/Reaper45/radio-garden)
 
 A terminal client for [radio.garden](https://radio.garden/) — browse world radio
-stations by place, hit play, and watch the audio scroll past as a GitHub
-contribution graph. Seven log-spaced frequency rows from 40 Hz to 16 kHz, real
-FFT output rendered in GitHub's five shades of green. Playback runs in a
-background daemon, so the music survives closing the terminal — and a closed lid,
-when you're on mains power.
-
-Built with Bun. macOS only, for now.
+stations by place, play one, and watch the audio scroll past as a contribution graph.
 
 ---
 
