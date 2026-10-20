@@ -11,8 +11,6 @@ existing but is fun to use.
 - **React Native & Expo** — mobile from the same codebase, shipped over the air.
 - **Nest Js** — my go-to for building full applications end to end: APIs,
   auth, queues, the boring parts done properly.
-- **Python** — how I poke at hardware. Most recently reverse-engineering the
-  protocol on my Philips smart heater to see what it would tell me.
 - **Product-shaped engineering** — taking a vague idea to something shipped, then
   keeping it running: schema design, payments, auth, deploys.
 - **Terminal craft** — CLIs that feel good to use, not just ones that work.
